@@ -7,9 +7,9 @@ The `px4_msgs` package was released.
 Version of package(s) in repository `px4_msgs`:
 
 - upstream repository: https://github.com/PX4/px4_msgs.git
-- release repository: unknown
-- rosdistro version: `null`
-- old version: `null`
+- release repository: https://github.com/PX4/px4_msgs-release.git
+- rosdistro version: `melodic`
+- old version: `1.0.0-1`
 - new version: `1.0.0-1`
 
 Versions of tools used:
@@ -30,8 +30,8 @@ The `px4_msgs` package was released.
 Version of package(s) in repository `px4_msgs`:
 
 - upstream repository: https://github.com/PX4/px4_msgs.git
-- release repository: unknown
-- rosdistro version: `null`
+- release repository: https://github.com/PX4/px4_msgs-release.git
+- rosdistro version: `kinetic`
 - old version: `1.0.0-2`
 - new version: `1.0.0-3`
 
@@ -53,8 +53,8 @@ The `px4_msgs` package was released.
 Version of package(s) in repository `px4_msgs`:
 
 - upstream repository: https://github.com/PX4/px4_msgs.git
-- release repository: unknown
-- rosdistro version: `null`
+- release repository: https://github.com/PX4/px4_msgs-release.git
+- rosdistro version: `kinetic`
 - old version: `1.0.0-1`
 - new version: `1.0.0-2`
 
@@ -76,9 +76,9 @@ The `px4_msgs` package was released.
 Version of package(s) in repository `px4_msgs`:
 
 - upstream repository: https://github.com/PX4/px4_msgs.git
-- release repository: unknown
-- rosdistro version: `null`
-- old version: `null`
+- release repository: https://github.com/PX4/px4_msgs-release.git
+- rosdistro version: `kinetic`
+- old version: `1.0.0-1`
 - new version: `1.0.0-1`
 
 Versions of tools used:
