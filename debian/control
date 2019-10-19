@@ -1,0 +1,12 @@
+Source: ros-melodic-px4-msgs
+Section: misc
+Priority: extra
+Maintainer: Nuno Marques <nuno.marques@dronesolutions.io>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-px4-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-runtime, ros-melodic-std-msgs
+Description: Package with the ROS-equivalent of PX4 uORB msgs
