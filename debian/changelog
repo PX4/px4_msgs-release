@@ -1,8 +1,0 @@
-ros-kinetic-px4-msgs (1.0.0-1xenial) xenial; urgency=high
-
-  * First release of px4_msgs for ROS (1) distros
-  * Contributors: Nuno Marques, PX4 Build Bot, PX4BuildBot, TSC21
-
- -- Nuno Marques <nuno.marques@dronesolutions.io>  Fri, 18 Oct 2019 23:00:00 -0000
-
-
